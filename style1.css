@@ -1,0 +1,25 @@
+li a {
+    
+  
+ list-style-type: none;
+   text-decoration: none;
+   color: black;
+   text-align: center;
+   font-size: 30px;
+  
+   
+}
+.nav{
+  
+   text-decoration: none;
+   text-align: center;
+  word-spacing: 10px;
+  background-color: rgb(134, 230, 163);
+  border-radius: 30px;
+  border: 2px salmon;
+ 
+  padding-left: -10em;
+}
+.nav:active{
+    background-color: yellowgreen;
+}
